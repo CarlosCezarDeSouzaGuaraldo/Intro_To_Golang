@@ -14,7 +14,9 @@ Repository created to register my learn in Go programming language! From 0 to IN
 - [x] Data Types
 - [x] Functions
 - [x] Operators
-- [ ] Struct
+- [x] Struct
+- [ ] Heritage
+
 
 ### Prerequisites
 
