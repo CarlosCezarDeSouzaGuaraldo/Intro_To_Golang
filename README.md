@@ -16,7 +16,10 @@ Repository created to register my learn in Go programming language! From 0 to IN
 - [x] Operators
 - [x] Struct
 - [x] "Heritage"
-- [ ] Pointers
+- [x] Pointers
+- [x] Arrays and Slices
+- [x] Intern Arrays
+- [ ] Maps
 
 
 ### Prerequisites
@@ -48,7 +51,10 @@ Repositório criado para registrar meu aprendizado na linguagem de programação
 - [x] Operadores
 - [x] Struct
 - [x] "Herança"
-- [ ] Ponteiros
+- [x] Ponteiros
+- [x] Arrays e Slices
+- [x] Arrays internos
+- [ ] Maps
 
 ### Pré-requisitos
 Antes de iniciar, é preciso instalar no seu dispositivo as ferramentas:
