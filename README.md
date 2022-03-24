@@ -20,7 +20,8 @@ Repository created to register my learn in Go programming language! From 0 to IN
 - [x] Arrays and Slices
 - [x] Intern Arrays
 - [x] Maps
-- [ ] Control's Structures
+- [x] Control's Structures
+- [ ] Switch
 
 
 ### Prerequisites
@@ -56,7 +57,8 @@ Repositório criado para registrar meu aprendizado na linguagem de programação
 - [x] Arrays e Slices
 - [x] Arrays internos
 - [x] Maps
-- [ ] Estruturas de Controle
+- [x] Estruturas de Controle
+- [ ] Switch
 
 ### Pré-requisitos
 Antes de iniciar, é preciso instalar no seu dispositivo as ferramentas:
