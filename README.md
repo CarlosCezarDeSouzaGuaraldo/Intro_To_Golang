@@ -22,7 +22,7 @@ Repository created to register my learn in Go programming language! From 0 to IN
 - [x] Maps
 - [x] Control's Structures
 - [x] Switch
-- [ ] Loops
+- [x] Loops
 
 
 ### Prerequisites
@@ -60,7 +60,7 @@ Repositório criado para registrar meu aprendizado na linguagem de programação
 - [x] Maps
 - [x] Estruturas de Controle
 - [x] Switch
-- [ ] Loops
+- [x] Loops
 
 ### Pré-requisitos
 Antes de iniciar, é preciso instalar no seu dispositivo as ferramentas:
