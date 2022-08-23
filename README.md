@@ -23,7 +23,8 @@ Repository created to register my learn in Go programming language! From 0 to IN
 - [x] Control's Structures
 - [x] Switch
 - [x] Loops
-
+- [x] Anonymous Functions
+- [x] Recursive Functions
 
 ### Prerequisites
 
@@ -61,6 +62,8 @@ Repositório criado para registrar meu aprendizado na linguagem de programação
 - [x] Estruturas de Controle
 - [x] Switch
 - [x] Loops
+- [x] Função Anônima
+- [x] Função Recursiva
 
 ### Pré-requisitos
 Antes de iniciar, é preciso instalar no seu dispositivo as ferramentas:
