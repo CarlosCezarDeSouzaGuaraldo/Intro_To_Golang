@@ -7,7 +7,7 @@ func fibonacci(position uint) uint {
 		return position
 	}
 
-	return fibonacci(position - 2) + fibonacci(position-1)
+	return fibonacci(position-2) + fibonacci(position-1)
 }
 
 func main() {
@@ -15,7 +15,7 @@ func main() {
 
 	position := uint(12)
 
-	for i := uint(0); i <position; i++; {
+	for i := uint(0); i < position; i++ {
 		fmt.Println(fibonacci(i))
 	}
 
