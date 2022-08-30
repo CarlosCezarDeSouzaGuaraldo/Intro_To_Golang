@@ -31,6 +31,7 @@ Repository created to register my learn in Go programming language! From 0 to IN
 - [x] Pointers Functions
 - [x] Init Functions
 - [x] Methods
+- [x] Interfaces
 
 ### Prerequisites
 
@@ -76,6 +77,7 @@ Repositório criado para registrar meu aprendizado na linguagem de programação
 - [x] Funções com Ponteiro
 - [x] Funções Init
 - [x] Métodos
+- [x] Interfaces
 
 ### Pré-requisitos
 Antes de iniciar, é preciso instalar no seu dispositivo as ferramentas:
