@@ -32,6 +32,7 @@ Repository created to register my learn in Go programming language! From 0 to IN
 - [x] Init Functions
 - [x] Methods
 - [x] Interfaces
+- [x] General Interfaces
 
 ### Prerequisites
 
@@ -78,6 +79,7 @@ Repositório criado para registrar meu aprendizado na linguagem de programação
 - [x] Funções Init
 - [x] Métodos
 - [x] Interfaces
+- [x] Interfaces Genéricas
 
 ### Pré-requisitos
 Antes de iniciar, é preciso instalar no seu dispositivo as ferramentas:
