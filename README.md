@@ -28,6 +28,7 @@ Repository created to register my learn in Go programming language! From 0 to IN
 - [x] Defer
 - [x] Panic / Recover
 - [x] Closure
+- [x] Pointers Functions
 
 ### Prerequisites
 
@@ -70,6 +71,7 @@ Repositório criado para registrar meu aprendizado na linguagem de programação
 - [x] Defer
 - [x] Panic / Recover
 - [x] Closure
+- [x] Funções com Ponteiro
 
 ### Pré-requisitos
 Antes de iniciar, é preciso instalar no seu dispositivo as ferramentas:
