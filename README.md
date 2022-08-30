@@ -26,6 +26,7 @@ Repository created to register my learn in Go programming language! From 0 to IN
 - [x] Anonymous Functions
 - [x] Recursive Functions
 - [x] Defer
+- [x] Panic / Recover
 
 ### Prerequisites
 
@@ -66,6 +67,7 @@ Repositório criado para registrar meu aprendizado na linguagem de programação
 - [x] Função Anônima
 - [x] Função Recursiva
 - [x] Defer
+- [x] Panic / Recover
 
 ### Pré-requisitos
 Antes de iniciar, é preciso instalar no seu dispositivo as ferramentas:
