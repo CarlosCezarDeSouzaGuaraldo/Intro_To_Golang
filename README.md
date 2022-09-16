@@ -37,6 +37,9 @@ Repository created to register my learn in Go programming language! From 0 to IN
 - [x] Go Rountine
 - [x] Wait Group
 - [x] Channels
+- [x] Buffer Channels
+- [x] Select with channels
+- [x] Worker Pools
 
 ### Prerequisites
 
@@ -88,6 +91,9 @@ Repositório criado para registrar meu aprendizado na linguagem de programação
 - [x] Go Rountine
 - [x] Wait Group
 - [x] Canais
+- [x] Canais com Buffer
+- [x] Canais com Select
+- [x] Worker Pools
 
 ### Pré-requisitos
 Antes de iniciar, é preciso instalar no seu dispositivo as ferramentas:
