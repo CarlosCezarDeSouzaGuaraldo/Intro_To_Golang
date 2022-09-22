@@ -1,6 +1,9 @@
-package address
+package address_test
 
-import "testing"
+import (
+	. "tests-intro/address"
+	"testing"
+)
 
 type testScenario struct {
 	addressIn      string
@@ -8,6 +11,7 @@ type testScenario struct {
 }
 
 func TestAddressType(t *testing.T) {
+	t.Parallel()
 
 	testScenarios := []testScenario{
 		{"avenue ABC", "Avenue"},
@@ -34,5 +38,12 @@ func TestAddressType(t *testing.T) {
 				addressReceived,
 				scenario.expectedReturn)
 		}
+	}
+}
+
+func TestExample(t *testing.T) {
+	t.Parallel()
+	if 1 > 2 {
+		t.Errorf("Teste quebrou")
 	}
 }

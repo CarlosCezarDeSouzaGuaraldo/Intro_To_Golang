@@ -42,6 +42,7 @@ Repository created to register my learn in Go programming language! From 0 to IN
 - [x] Worker Pools
 - [x] Generators
 - [x] Multiplexer
+- [x] Unit Test
 
 ### Prerequisites
 
@@ -98,6 +99,7 @@ Repositório criado para registrar meu aprendizado na linguagem de programação
 - [x] Worker Pools
 - [x] Generators
 - [x] Multiplexador
+- [x] Teste Unitário
 
 ### Pré-requisitos
 Antes de iniciar, é preciso instalar no seu dispositivo as ferramentas:
