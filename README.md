@@ -41,6 +41,7 @@ Repository created to register my learn in Go programming language! From 0 to IN
 - [x] Select with channels
 - [x] Worker Pools
 - [x] Generators
+- [x] Multiplexer
 
 ### Prerequisites
 
@@ -96,6 +97,7 @@ Repositório criado para registrar meu aprendizado na linguagem de programação
 - [x] Canais com Select
 - [x] Worker Pools
 - [x] Generators
+- [x] Multiplexador
 
 ### Pré-requisitos
 Antes de iniciar, é preciso instalar no seu dispositivo as ferramentas:
