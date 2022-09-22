@@ -43,6 +43,7 @@ Repository created to register my learn in Go programming language! From 0 to IN
 - [x] Generators
 - [x] Multiplexer
 - [x] Unit Test
+- [x] JSON and Marshall function
 
 ### Prerequisites
 
@@ -100,6 +101,7 @@ Repositório criado para registrar meu aprendizado na linguagem de programação
 - [x] Generators
 - [x] Multiplexador
 - [x] Teste Unitário
+- [x] JSON e função Marshall
 
 ### Pré-requisitos
 Antes de iniciar, é preciso instalar no seu dispositivo as ferramentas:
