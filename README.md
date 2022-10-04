@@ -46,6 +46,7 @@ Repository created to register my learn in Go programming language! From 0 to IN
 - [x] JSON and Marshall function
 - [x] HTML
 - [x] Databases
+- [x] HTTP Methods (GET, POST, PUT, DELETE)
 
 ### Prerequisites
 
@@ -106,6 +107,7 @@ Repositório criado para registrar meu aprendizado na linguagem de programação
 - [x] JSON e função Marshall
 - [x] HTML
 - [x] Banco de dados
+- [x] Métodos HTTP (GET, POST, PUT, DELETE)
 
 ### Pré-requisitos
 Antes de iniciar, é preciso instalar no seu dispositivo as ferramentas:
