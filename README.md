@@ -4,7 +4,7 @@
 Repository created to register my learn in Go programming language! From 0 to INFINITY :rocket:
 
 <h4 align="center">
-    :construction:  Under construction...  :construction:
+    :white_check_mark:  Completed!  :white_check_mark:
 </h4>
 
 ### Steps
@@ -56,16 +56,18 @@ Before you start, you need to install in your device the tools:
 [VSCode](https://code.visualstudio.com/) (Optional)
 
 ### Technologies :hammer::wrench:
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-- Go <img width="15px" height="20px" src="https://www.clipartmax.com/png/full/163-1635688_learn-golang-in-your-own-sandbox-golang-gopher.png"/>
 
-# Treinando Go!
+# Praticando Go!
 ## Descrição do Projeto
 
 Repositório criado para registrar meu aprendizado na linguagem de programação Go! Do 0 ao INFINITO :rocket:
 
 <h4 align="center">
-    :construction:  Em construção...  :construction:
+    :white_check_mark:  Finalizado!  :white_check_mark:
 </h4>
 
 ### Etapas
@@ -117,4 +119,6 @@ Antes de iniciar, é preciso instalar no seu dispositivo as ferramentas:
 
 ### Tecnologias :hammer::wrench:
 
-- Go <img width="15px" height="20px" src="https://www.clipartmax.com/png/full/163-1635688_learn-golang-in-your-own-sandbox-golang-gopher.png"/>
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
